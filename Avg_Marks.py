@@ -19,5 +19,8 @@ for x in marks:
 
 print("\nTotal marks out of %d is: %d" % (max_marks,total))
 
+avg_marks=total/no_subjects
+print("\nAverage Mark scored is %d" % avg_marks)
+
 Percentage=(total/max_marks)*100
-print("\nPercentage scored: %d % " % Percentage)
+print("\nPercentage scored: ",Percentage,"%")
