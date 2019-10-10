@@ -12,3 +12,6 @@ With a new start to new language, I'm side by side adding my python programs to 
 8. Excel_Read.py : Reading data from excel sheet using openpyxl library. Install the library by using "pip install openpyxl" command in cmd. Make sure the path provided for a excel sheet should be correct.
 9. Tables_PrettyTable.py : prettytable is also a python library used for creating of tables. Providing an easy way of creating table and display output directly on console. install the library by using "pip install PTable" command in cmd.
 10. ReportCard.py : This program is an enhancement over Avg_Marks.py. After inputs from user, program outputs a Tabular Report Card based on user inputs and uses prettytable library for tabular representation.
+11. Roll_Dice.py : A Program that using the concept of while loop and random library in python to give a random number in the provided range and serves as a game via which user can roll a dice or multiple dices virtually.
+12. guess_number.py : Another example using random library of python. A game where you provide a range of integers and after a given random number by system, user has to guess the next number. If the guessed number by the user and the next random number are equal or both are greater than or lesser than previous random number, then user wins.  
+13. function.py : Understanding the use of functions in python
