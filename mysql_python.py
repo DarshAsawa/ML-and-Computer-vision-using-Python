@@ -9,7 +9,7 @@ myDB= mysql.connector.connect(
 
 print(myDB)
 
-#Creating Database..
+#displaying tables in the database..
 myCursor=myDB.cursor()
 print("Tables present in Python Database :")
 myCursor.execute("Show tables")
