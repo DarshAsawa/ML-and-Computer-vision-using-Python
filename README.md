@@ -1,4 +1,4 @@
-# **My Python Programs**
+# **Python Programs**
 With a new start to new language, I'm side by side adding my python programs to Github repository so that other contributers can take help and ideas from my modules.
 
 ### List of **Codes** (with their description):
@@ -17,3 +17,4 @@ With a new start to new language, I'm side by side adding my python programs to 
 13. function.py : Understanding the use of functions in python
 14. hangman.py : A word guessing game. Program consists a lists of few predefined words. When the user runs the program, out of these words one random word is selected. The user is then presented with '_' such nderscores which are equal to the lenght of the word and user is asked to guess this random word. User gets 10 chances to guess the word. For each wrong guess of an alphabet user looses one chance. With every right guess of alphabet, the alphabet is then shown at the correct position of its existence in the word, and makes it easier for the user to guess further alphabets in the word. If the user gets the right word in less than 10 wrong guess, he/she wins.
 15. fizzbuzz.py : The program asks for user input and then checks if the number is divisible by either 3 or 5 or may be by both. If the number is divisible by 3, number is called "fizz". If the number is divisible by 5 then the number is called "buzz". In the case of divisibility by both the digits, It is called "fizzbuzz".
+16. list_revlist.py: User enters a list and programs returns the reverse of that list as an output.
