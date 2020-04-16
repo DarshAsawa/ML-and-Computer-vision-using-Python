@@ -8,3 +8,6 @@ This is my learning and practice repository, consisting of the programs and note
 
 ### Software Requirements
 Anaconda (Python 3.7) : *[Download]*(https://www.anaconda.com/distribution/)
+
+Files with extension **.ipynb** can be accessed using Jupyter Notebook in Anaconda.
+Files with extension **.py** can be accessed using Spyder in Anaconda.
